@@ -1,3 +1,6 @@
+
+// Write a C program to find maximum between two numbers using conditional operator.
+
 const findMaximum = (num1, num2) => {
     const maximum = num1 > num2 ?
         num1 : num2;

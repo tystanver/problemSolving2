@@ -1,3 +1,5 @@
+// Write a C program to find maximum between three numbers using conditional operator.
+
 let num1 = 10;
 let num2 = 20;
 let num3 = 40;

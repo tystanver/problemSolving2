@@ -1,3 +1,5 @@
+
+// Write a C program to check whether a number is even or odd using conditional operator.
 let number = 15;
 const evenOdd = (number) => {
     let num;
